@@ -1,4 +1,4 @@
-## 这个项目主要是为了简化导出excel的工作
+## 这个项目主要是把数据和样式分开，使导出excel更加简单。
 
 ### 用法
 #### 1.首先需要初始化一个PowerExcelService实体(DefaultPowerExcelService)
